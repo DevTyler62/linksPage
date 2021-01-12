@@ -7,3 +7,4 @@ Instead of using the predone ones like linktree or others that are the same way 
 This will be placed in my Instagram bio but will work on other devices as well.
 
 Site link
+https://links-tylercodes.netlify.app/
